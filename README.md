@@ -37,7 +37,7 @@ A website and shop for AES, a Miami street artist and one of the graffiti artist
 
 `Next.js` `TypeScript` `three.js / react-three-fiber` `Framer Motion` `Shopify`
 
-**[Code](https://github.com/cholohotsauce/the-miracle-ghost-web)** · **[Live](https://themiracleghost.com)**
+**[Live](https://themiracleghost.com)** · code is private for the client, happy to walk through it
 
 <br clear="right" />
 
